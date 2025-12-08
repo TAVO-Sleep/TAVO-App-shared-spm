@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://api.github.com/repos/TAVO-Sleep/TAVO-App-shared/releases/assets/325538281.zip",
-         checksum:"e0ffb626d5e8f5bf382e707a4f664cab2a13fd594e8c32d904851d3572870a38")
+         url: "https://api.github.com/repos/TAVO-Sleep/TAVO-App-shared/releases/assets/326046832.zip",
+         checksum:"1d20afbdbde3db31d92d4f5c6f3ff42b968a961a80d328a508485cc8c84dc130")
    ]
 )
